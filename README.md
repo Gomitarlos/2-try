@@ -7,11 +7,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
 <body>
     <div class="container">
         <h1>OSIRIS - Imagen de Marte en Color Real</h1>
-        <img src="OSIRIS_Mars_true_color.jpg" alt="Imagen OSIRIS de Marte"width="300" height="300">
+        <img src="OSIRIS_Mars_true_color.jpg" alt="Imagen OSIRIS de Marte">
         <div class="info">
             <p><strong>Instrumento:</strong> OSIRIS (Optical, Spectroscopic and Infrared Remote Imaging System)</p>
             <p><strong>Satélite:</strong> ROSETTA (ESA)</p>
@@ -37,7 +36,6 @@ Sus nombres le fueron puestos en honor a los dos personajes de la mitología gri
 Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Este como la Luna. Sin embargo, Fobos, más grande y cercano, se mueve alrededor del planeta más rápidamente de lo que el mismo planeta rota. Por este motivo aparece en el occidente, se mueve comparativamente, en forma rápida a través del cielo (en 4 horas 15 minutos o menos) y se pone por el Este, aproximadamente dos veces por cada día marciano (cada 11 horas y 6 minutos).</p>
 <hr>
 <p>referencias tomadas de: <a href="https://es.wikipedia.org/wiki/Marte_(planeta)">Marte en Wikipedia</a></p>
-</body>
 </head>
 </html>
 </img src>
