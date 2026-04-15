@@ -1,3 +1,5 @@
+<body style="background-color: black;">
+</body>
 <h1 style="text-align: center;">el espacio</h1>
 <hr>
 <body bgcolor="black">
