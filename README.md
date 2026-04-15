@@ -7,9 +7,8 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-<body>
+    <meta name="viewport" content="width=device-width, initial-scale=0.3">
+    <body>
     <div class="container">
         <h1>OSIRIS - Imagen de Marte en Color Real</h1>
         <img src="OSIRIS_Mars_true_color.jpg" alt="Imagen OSIRIS de Marte">
